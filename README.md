@@ -1,5 +1,5 @@
 <!-- ctrl + shift + v to preview -->
-# Bomberman
+# bomberman
 
 ## Table of Contents
 - [Bomberman](#bomberman)
